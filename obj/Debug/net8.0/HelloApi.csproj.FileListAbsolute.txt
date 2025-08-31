@@ -138,3 +138,9 @@ C:\Users\re2112\Documents\Desarrollo web\Back\HelloApi\HelloApi\obj\Debug\net8.0
 C:\Users\re2112\Documents\Desarrollo web\Back\HelloApi\HelloApi\obj\Debug\net8.0\HelloApi.pdb
 C:\Users\re2112\Documents\Desarrollo web\Back\HelloApi\HelloApi\obj\Debug\net8.0\HelloApi.genruntimeconfig.cache
 C:\Users\re2112\Documents\Desarrollo web\Back\HelloApi\HelloApi\obj\Debug\net8.0\ref\HelloApi.dll
+C:\Users\re2112\Documents\Desarrollo web\Back\HelloApi\HelloApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\re2112\Documents\Desarrollo web\Back\HelloApi\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\re2112\Documents\Desarrollo web\Back\HelloApi\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\re2112\Documents\Desarrollo web\Back\HelloApi\HelloApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\re2112\Documents\Desarrollo web\Back\HelloApi\HelloApi\obj\Debug\net8.0\HelloApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\re2112\Documents\Desarrollo web\Back\HelloApi\HelloApi\obj\Debug\net8.0\HelloApi.sourcelink.json
